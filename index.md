@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+I am a PhD student in University of Copenhagen. 
 ---
 

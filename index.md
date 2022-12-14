@@ -12,12 +12,12 @@ I am a second year PhD student supervised by [Jakob Grue Simonsen](http://hjemme
 ## Publications
 
 1. Language modeling using Tensor Trains. (ICLR2023 under review)
-2. Privacy Lost in online Education: Analysis of Web Tracking Evolution. (WWW2023 under review)
+2. **Zhan Su**. Rasmus Helles, Ali Al-Laith, Antti Veilahti, Akrati Saxena, Jakob Grue Simonsen. Privacy Lost in online Education: Analysis of Web Tracking Evolution. (WWW2023 under review)
 3. Lipeng Zhang, Peng Zhang, Xindian Ma, Shuqin Gu, **Zhan Su**, Dawei Song. A generalized language model in tensor space. In Proceedings of the AAAI Conference on Artificial Intelligence(AAAI2019) (2019, July) [code](https://github.com/shuishen112/AAAI19-TSLM.git).
 4. Peng Zhang, **Zhan Su**, Lipeng Zhang, Benyou Wang, Dawei Song. A quantum many-body wave function inspired language modeling approach. Proceedings of the 27th ACM International Conference on Information and Knowledge Management(CIKM 2018)  [code](https://github.com/shuishen112/CIKM2018_QMWFLM.git)
-5. Peng Zhang, Jiabin Niu, Zhan Su, Benyou Wang, Liqun Ma, Dawei Song. End-to-end quantum-like language models with application to question answering.    Thirty-Second AAAI Conference on Artificial Intelligence(AAAI2018)  [code](https://github.com/TJUIRLAB/NNQLM).
-6. Pengqing Zhang, Yuexian Hou, Zhan Su, Yi Su. Two-Step Multi-factor Attention Neural Network for Answer Selection. Pacific Rim International Conference on Artificial Intelligence(PRICAI2018). 
-7. Zhan Su, Benyou Wang, Jiabin Niu, Shuchang Tao, Peng Zhang , Dawei Song. Enhanced Embedding Based Attentive Pooling Network for Answer Selection. National CCF Conference on Natural Language Processing and Chinese Computing(NLPCC2017) 
+5. Peng Zhang, Jiabin Niu, **Zhan Su**, Benyou Wang, Liqun Ma, Dawei Song. End-to-end quantum-like language models with application to question answering.    Thirty-Second AAAI Conference on Artificial Intelligence(AAAI2018)  [code](https://github.com/TJUIRLAB/NNQLM).
+6. Pengqing Zhang, Yuexian Hou, **Zhan Su**, Yi Su. Two-Step Multi-factor Attention Neural Network for Answer Selection. Pacific Rim International Conference on Artificial Intelligence(PRICAI2018). 
+7. **Zhan Su**, Benyou Wang, Jiabin Niu, Shuchang Tao, Peng Zhang , Dawei Song. Enhanced Embedding Based Attentive Pooling Network for Answer Selection. National CCF Conference on Natural Language Processing and Chinese Computing(NLPCC2017) 
 
 
 ## Education

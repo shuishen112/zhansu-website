@@ -5,8 +5,8 @@ I am a second year PhD student supervised by [Jakob Grue Simonsen](http://hjemme
 - Web Tracking
 - Information Retrieval
 - Language Modeling
-- Tensor Network Stuff.
-- Quantuam Machine Learning.
+- Tensor Network Stuff
+- Quantum Machine Learning
 
 
 ## Publications

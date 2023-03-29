@@ -1,12 +1,4 @@
-I am a second year PhD student supervised by [Jakob Grue Simonsen](http://hjemmesider.diku.dk/~simonsen/) and [Rasmus Helles](https://scholar.google.com/citations?user=6-o19BkAAAAJ&hl=en) at the University of Copenhagen. Currently, I am working on my PhD project "Privacy Lost". [resume](./resume/resume.pdf)
-
-## Interests
-
-- Web Tracking
-- Information Retrieval
-- Language Modeling
-- Tensor Network Stuff
-- Quantum Machine Learning
+I am a PhD student in my second year of study, under the supervision of [Jakob Grue Simonsen](http://hjemmesider.diku.dk/~simonsen/) and [Rasmus Helles](https://scholar.google.com/citations?user=6-o19BkAAAAJ&hl=en) at the University of Copenhagen. My research project, titled "Privacy Lost," is currently underway. I am particularly interested in exploring the concepts of Parameter Efficient Finetuning (PEFT) and Structured State Spaces, which represent a revival of RNN. You can find my resume here[resume](./resume/resume.pdf).
 
 
 ## Publications
@@ -45,7 +37,8 @@ The project aims to uncover how commercial surveillance of web users has develop
 ## Activities:
 
 - 2022.06.11-2022.06. Volunteer in [SIGIR2022 Conference](https://sigir.org/sigir2022/)
-- 2022.04-2022.06. Teacher Asistant in Neural [Information Retrieval Course](https://kurser.ku.dk/course/ndak20002u).
+- 2022.04-2022.06. Teacher Asistant in [Neural Information Retrieval Course](https://kurser.ku.dk/course/ndak20002u).
+- 2023.04-2023.06. Teacher Asistant in [Neural Information Retrieval Course]()
 
 
 

@@ -1,5 +1,7 @@
 I am a PhD student in my third year of study, under the supervision of [Jakob Grue Simonsen](http://hjemmesider.diku.dk/~simonsen/) and [Rasmus Helles](https://scholar.google.com/citations?user=6-o19BkAAAAJ&hl=en) at the University of Copenhagen. My research project, titled "Privacy Lost," is currently underway. I am particularly interested in exploring the concepts of Parameter Efficient Finetuning (PEFT) and Structured State Spaces, which represent a revival of RNN. You can find my resume here [resume](./resume/resume.pdf).
+## News
 
+- Starting a research internship at MSR Montreal with Alessandro Sordoni (2023.8-2023.2). 
 
 ## Publications
 
@@ -21,7 +23,8 @@ I am a PhD student in my third year of study, under the supervision of [Jakob Gr
 
 ## Work and Intern
 - 2018.6-2018.9: Research Intern, Department of YingyongBao, Tencent Company,  Shenzhen China. 
-- 2019.4-2021.1: Full-time Algorithm Researcher, Department of QQbrowser, Tencent Company, Shenzhen China. 
+- 2019.4-2021.1: Full-time Algorithm Researcher, Department of QQbrowser, Tencent Company, Shenzhen China.
+- 2023.8-2024.2: Research Intern, Mila, Microsoft Research, Montréal, Canada.
 
 ## Projects: 
 - Privacy Lost
@@ -38,7 +41,7 @@ The project aims to uncover how commercial surveillance of web users has develop
 
 - 2022.06.11-2022.06. Volunteer in [SIGIR2022 Conference](https://sigir.org/sigir2022/)
 - 2022.04-2022.06. Teacher Asistant in [Neural Information Retrieval Course](https://kurser.ku.dk/course/ndak20002u).
-- 2023.04-2023.06. Teacher Asistant in [Neural Information Retrieval Course]()
+- 2023.04-2023.08. Teacher Asistant in [Neural Information Retrieval Course]()
 
 
 

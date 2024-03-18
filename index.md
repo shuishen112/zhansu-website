@@ -1,12 +1,15 @@
 I am a PhD student in my third year of study, under the supervision of [Jakob Grue Simonsen](http://hjemmesider.diku.dk/~simonsen/) and [Rasmus Helles](https://scholar.google.com/citations?user=6-o19BkAAAAJ&hl=en) at the University of Copenhagen. My research project, titled "Privacy Lost," is currently underway. I am particularly interested in exploring the concepts of Parameter Efficient Finetuning (PEFT) and Structured State Spaces, which represent a revival of RNN. You can find my resume here [resume](./resume/resume.pdf).
 ## News
 
+- Visiting University of Montreal. RALI Lab, supervised by Jian-Yun Nie. 
 - Starting a research internship at MSR Montreal with Alessandro Sordoni (2023.8-2023.2). 
 
 ## Publications
 
-* Language modeling using Tensor Trains. 
-* **Zhan Su**. Rasmus Helles, Ali Al-Laith, Antti Veilahti, Akrati Saxena, Jakob Grue Simonsen. Privacy Lost in online Education: Analysis of Web Tracking Evolution. (ADMA2023)
+* Oleksiy Ostapenko, Lucas Caccia, Zhan Su, Nicolas Le Roux, Laurent Charlin, Alessandro Sordoni. A Case Study of Instruction Tuning with Mixture of Parameter-Efficient Experts. (NeurIPS2023 workshop)
+*  Lucas Caccia, Edoardo Ponti, Zhan Su, Matheus Pereira, Nicolas Le Roux, Alessandro Sordoni. Multi-Head Adapter Routing for Cross-Task Generalization (NeurIPS2023 poster)
+* **Zhan Su**, Yuqin Zhou, Jakob Grue Simonsen. Language modeling using Tensor Trains (Preprint). 
+* **Zhan Su**. Rasmus Helles, Ali Al-Laith, Antti Veilahti, Akrati Saxena, Jakob Grue Simonsen. Privacy Lost in online Education: Analysis of Web Tracking Evolution. (ADMA2023 oral)
 * Lipeng Zhang, Peng Zhang, Xindian Ma, Shuqin Gu, **Zhan Su**, Dawei Song. A generalized language model in tensor space. In Proceedings of the AAAI Conference on Artificial Intelligence(AAAI2019) (2019, July) [code](https://github.com/shuishen112/AAAI19-TSLM.git).
 * Peng Zhang, **Zhan Su**, Lipeng Zhang, Benyou Wang, Dawei Song. A quantum many-body wave function inspired language modeling approach. Proceedings of the 27th ACM International Conference on Information and Knowledge Management(CIKM 2018)  [code](https://github.com/shuishen112/CIKM2018_QMWFLM.git)
 * Peng Zhang, Jiabin Niu, **Zhan Su**, Benyou Wang, Liqun Ma, Dawei Song. End-to-end quantum-like language models with application to question answering.    Thirty-Second AAAI Conference on Artificial Intelligence(AAAI2018)  [code](https://github.com/TJUIRLAB/NNQLM).

@@ -1,8 +1,9 @@
 I am a PhD student in my third year of study, under the supervision of [Jakob Grue Simonsen](http://hjemmesider.diku.dk/~simonsen/) and [Rasmus Helles](https://scholar.google.com/citations?user=6-o19BkAAAAJ&hl=en) at the University of Copenhagen. My research project, titled "Privacy Lost," is currently underway. I am particularly interested in exploring the concepts of Parameter Efficient Finetuning (PEFT) and Structured State Spaces, which represent a revival of RNN. You can find my resume here [resume](./resume/resume.pdf).
 ## News
 
-- Visiting University of Montreal. RALI Lab, supervised by Jian-Yun Nie. 
-- Starting a research internship at MSR Montreal with Alessandro Sordoni (2023.8-2023.2). 
+- Visiting University of Montreal. RALI Lab, supervised by Jian-Yun Nie. (2023.10-2024.2)
+- Starting a research internship at MSR Montreal with Alessandro Sordoni (2023.8-2024.2). 
+- Visiting Chinese University of Honkong (ShenZhen) (CUHK). (2023.9-2023.10) 
 
 ## Publications
 
